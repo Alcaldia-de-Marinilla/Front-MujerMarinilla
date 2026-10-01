@@ -17,7 +17,7 @@
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
-    text-align: left;
+    text-align: rigth;
     color: #171717; /* Cor do subtítulo */
 }
 
@@ -25,7 +25,7 @@
 .button-text {
     font-family: 'Inter', sans-serif;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 20px;
     text-align: center;
     /* color: #FFFFFF; Cor do texto dentro do botão */
